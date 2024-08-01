@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Eine Britin wurde für die Entführung einer Fähre verhaftet, nachdem sie \u201c<BLANK>!\u201d gerufen hat",
+      "v": "Eine Britin wurde für die Entführung einer Fähre verhaftet, nachdem sie “<BLANK>!” gerufen hat",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "i am jack sparrow,im jack sparrow,i\u2019m jack sparow",
+      "v": "i am jack sparrow,im jack sparrow,i’m jack sparow",
       "n": "AlternateSpellings"
     },
     {

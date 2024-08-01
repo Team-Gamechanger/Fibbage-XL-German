@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "In der Nähe der Stadt Stanley in England gibt es ein kleines Dorf namens \u201cNo <BLANK>\u201d.",
+      "v": "In der Nähe der Stadt Stanley in England gibt es ein kleines Dorf namens “No <BLANK>”.",
       "n": "QuestionText"
     },
     {
