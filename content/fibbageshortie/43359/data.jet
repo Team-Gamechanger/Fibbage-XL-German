@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "adoptiert,Millionäre,eigentlich Zwillinge,zu Hause,hochbegabt,unter Hypnose,Schlafwandler,bereits verstorben,erschöpft,Teil eines Regierungsexperiments,blond,muskulös,alt,Träger seltener Gene,in einem Flugzeug,Nachfahren von Adligen,dumm,chronisch müde",
+      "v": "benutzten Kondomen,ihrem eigenen Erbrochenen,Walpenissen,dem Maul von Haien,Atommüll,Hummerkäfigen,zerbrochenen Flaschen,menschlichen Überresten,toten Delfinen,Müllhalden,Vulkanschloten,gefrorenen Gletschern,alten Toiletten,Sandburgen,Delfindärmen,Abwasserrohren,Plastiktüten,Klemmbausteinen",
       "n": "Suggestions"
     },
     {
@@ -56,6 +56,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "menschlicher Asche,benutzten Särgen,Kaffeesatz,Tetrapaks,Rattenkot,Fleisch,Kronkorken,Rock ‘n Roll,alten Snickers,Plankton,Schnee,alten Kleinstwägen,verschrotteten Karneval-Attraktionen,Feuer,recycelten iPhones,Zucker,Walross-Stoßzähnen,alten Fußball-Pokalen",
+      "v": "sprechen kann,Strom abgibt,ihre Farbe ändert,Wachsmalstift-resistent ist,Insekten einfangen kann,Räume größer wirken lässt,summt,sich je nach Stimmung ändert,Strom erzeugt,Stimmen aufzeichnet,als Spiegel dient,Filme abspielt,Wärme produziert,die Lebenserwartung erhöht,schläfrig macht,Geräusche isoliert,Termiten tötet,Schmetterlinge anzieht",
       "n": "Suggestions"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

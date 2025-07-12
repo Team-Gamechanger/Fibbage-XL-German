@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Reifenstücken,Wick Vaporub,Süßkartoffelpommes,abgelaufenen Gutscheinen,Teddybären-Füllung,unsichtbarer Tinte,Blumenerde,Hühnerknochen,Feuerwerk,Bananenschalen,Teilen von Ledersesseln,Murmeln,Kartoffeln,Speck,Piratengold,Wodka,Ameisensäure,Bärenfell",
+      "v": "der Dalai Lama,ein digitaler Prophet,der Herrscher seines eigenen Landes,ein Außerirdischen-Kriegsherr,der Erfinder des Internets,ein Zeitreisender,ein ägyptischer Pharao,der Herzog von Essex,der Sohn von Bigfoot,der König von Atlantis,ein Schlumpf,der Erbe des Skittles-Vermögens,eine Fee,virtueller Wanderprediger,ein Apostel der Algorithmen,ein Meerjungfraumann,der Botschafter der deutschen Reichsbürger,ein Magier",
       "n": "Suggestions"
     },
     {
@@ -56,6 +56,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

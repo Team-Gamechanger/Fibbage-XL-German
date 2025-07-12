@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Ledersitzen,Schmieröl,Holzkohle,Glasreiniger,Ölfarben,Bärenfutter,Katzenstreu,Glühbirnen,Gewehren,Pflanzensamen,Bienen,Kirchenglocken,Krawatten,Medikamenten,Kaffeelöffeln,Tabakdosen,Sonnenbrillen,Föhnen,Trillerpfeifen,Lesezeichen",
+      "v": "Schwimmen,Pink pantern,Rosa Augen,neues Tattoo,Komplett pink,Laut schreien,Parade,Marathon,Dein Haustier,Seifenkistenrennen,Karaoke-Contest,Dein Kunstwerk,Mobbing,Rasen,Fliegen,Nie wieder zum Friseur,Schlaflos,Arbeitslos",
       "n": "Suggestions"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

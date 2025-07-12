@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Schreine,Geister,Babys,Hunde,Grabsteine,Statuen,Restaurants,Roboter,Riesen,Zauberer,Hasen,Affen,Kinderschauspieler,Autos,Barbiepuppen,Gefängnisse,Goldfische,Einkaufsläden",
+      "v": "Drogen,Barbiepuppen,Welpen,VHS-Kassetten,Umarmungen,Gartenarbeit,Eiswürfel,Bibeln,Autos,Steaks,Panzermunition,Strumpfhosen,Menschliche Schädel,Messer,iPads,Maßgeschneiderte Lederjacken,Bargeld,Sammelkarten",
       "n": "Suggestions"
     },
     {
@@ -56,6 +56,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

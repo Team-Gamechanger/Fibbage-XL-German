@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Hobbygärtner,Straßenmusiker,Imker,Schachgroßmeister,Würstchenverkäufer,Postbote,Tierarzt,Graffitikünstler,Tauchlehrer,Bäcker,Taxifahrer,Feuerwehrmann,DJ,Straßenkünstler,Zauberer,Comiczeichner,Friseur,Eisverkäufer,Sportkommentator,Puppenspieler",
+      "v": "Krümelmonster,Barack Obama,Wladimir Putin,Peter Griffin,dem Grinch,Adolf Hitler,Angela Merkel,SpongeBob Schwammkopf,Elmo,Super Mario,Bill Cosby,Dracula,Albert Einstein,Betty White,Cap’n Crunch,Julius Cäsar,Jesus,Lassie",
       "n": "Suggestions"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

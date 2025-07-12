@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "gerettete Pitbulls,Ärzte,Amerikaner,Hologramme,Doubles von Will Smith,Männer namens Alexei, Menschen mit sechs Fingern,seine Verwandten,unhöfliche Roboter,Hippies,Einhörner,Kobolde,Lemuren,Australier,Meerjungfrauen,Marsianer,Blinde,Witwen",
+      "v": "John Lennon,Dick & Doof,seiner nicht toten Frau Beatrice,Leitungswasser,im Dienst verstorbenen Schädlingsbekämpfern,Marilyn Monroe,The Rolling Stones,Gaius Iulius Caesar,Donald Trump,Scheren,Faxgeräten,Planet Erde,Stop-Motion-Animation,Insektenkundlern,Prinzessin Diana,Bananenbrot,Frankensteins Monster,Helmut Schmidt",
       "n": "Suggestions"
     },
     {
@@ -56,6 +56,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

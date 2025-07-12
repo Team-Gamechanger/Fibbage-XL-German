@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Socken,Regenschirm,Quietscheentchen,Zahnbürsten,Kaffeetassen,Schlüssel,Fahrrad,Krawatten,Wäscheklammer,Handtaschen,Hut,Kopfhörer,Haarspangen,Stofftier,Gartenzwerg,Brief,Toilettenpapier,Katzen,Flaschen,Kartoffelzaun",
+      "v": "Einem Krokodil,Nilpferden,Haien,Babyfröschen,Einem Delfin,Anderen bedrohten Affen,Seinem Tierwärter,Walrossen,Piranhas,Bakterien,Seinen Kindern,Seinen Eltern,Schulkindern,Englischen Touristen,Einem Blindenhund,Einem Tintenfisch,Hummern,Einer alten Dame",
       "n": "Suggestions"
     },
     {
@@ -56,6 +56,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

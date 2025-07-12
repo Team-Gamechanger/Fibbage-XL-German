@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "aufs Klo gehen,ein Buch lesen,singen,beten,malen,nochmal nackt sind,Jodeln,Sex hatten,meditieren,kräftig rülpsen,ihre Sünden bekennen,jonglieren,weinen,backen,einander umarmen,baden,Alkohol trinken",
+      "v": "der Mutter,dem Auto,dem Hund,der heimlichen Geliebten,der Gitarre,dem Schloss,dem Lieblings-Kartenspiel,dem Adoptivsohn,der Katze,dem Sekretär,dem Boot,der Perücke,dem Künstlernamen,der Frau",
       "n": "Suggestions"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

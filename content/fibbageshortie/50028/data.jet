@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Mussolini-Imitator,Faschismus-Model,Bauchredner,Versicherungsvertreter,Grabschänder,Clown,Aktmodell,Fischer,Hundepsychologe,Filmkritiker,Synchronschwimmer,Rennfahrer,Friseur,Autoverkäufer,Feuerwehrmann,Kindergärtner,Karikaturist,Pantomime",
+      "v": "Dem Wetter,Ihrem Mittagessen,Ihrer Laune,Ihrem Blutzuckerspiegel,Der Mona Lisa,Angela Merkels Hosenanzüge,Dem Radioprogramm,Promigeburtstagen,Der Flugzeuganzahl,Ihrem Kontostand,Ihrem Suchverlauf,Der Anzahl an Eilmeldungen,ihrer Haarfarbe,ihrer Fruchtbarkeit,der Mondphase,den Sternzeichen,ihrer erhaltenen Post,ihrem Chamäleon,ihrer Hautfarbe,ihrem Muttermal",
       "n": "Suggestions"
     },
     {
@@ -56,6 +56,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Pudding,Orangenschalen,Lehm,Bildern von sich selbst,Bratensoße,Müll,Straßenkindern,Zuckerwatte,Eis,Fallschirmen,Knochenstücken,fünf hässlicheren Kleidern,Maschendraht und Marshmallows,Steuerformularen,ihren eigenen Haaren,Erotikmagazinen,edler Unterwäsche,Glühbirnen",
+      "v": "Gold,ein Haus,einen Hahn,eine Klimaanlage,eine Frau,Bier,einen Diamanten,eine persönliche Assistentin,ein Auto,eine Massage,Schmuck,Schuhe,Geld,Konzerttickets,eine eigene Radiosendung,einen Fernseher,ein Handy,ein Pferd",
       "n": "Suggestions"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

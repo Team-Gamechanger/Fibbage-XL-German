@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "einem falschen Feuer,Popeye,einem großen Hai,Superman,einem glitzernden Wikingerschiff,einem Mittelfinger,einem Seemonster,einem wütenden Wikinger,Gott,einer blinkenden Atombombenwarnung,einem mahnenden Totenkopf,einem sexy Hirsch,ABBA,einem gespenstischen Geisterschiff,einem riesigen Stoppschild,einem riesigen Hintern,Thor,einem feuerspeienden Drachen",
+      "v": "Scheidung,Überdosis,Ungewollte Schwangerschaft,Börsencrash,Einzug in den Krieg,Ermordet,Verwitwet,Lepra,Cholera,deceitful butler,Die Treppe heruntergefallen,fitful spasm,dog murder,Demenz,Vermisstes Kind,Ertrinken,Weinender Geist,spontane menschliche Selbstentzündung",
       "n": "Suggestions"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {
