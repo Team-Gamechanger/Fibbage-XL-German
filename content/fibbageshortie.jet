@@ -4,13 +4,13 @@
     {
       "x": false,
       "id": 14337,
-      "category": "Übermenschliche Kräfte",
+      "category": "Superkräfte",
       "bumper": ""
     },
     {
       "x": false,
       "id": 14344,
-      "category": "Kanadischer Alkohol",
+      "category": "Alkohol",
       "bumper": ""
     },
     {
@@ -22,13 +22,13 @@
     {
       "x": false,
       "id": 14390,
-      "category": "Gefängnisausstattungen",
+      "category": "Gefängnis",
       "bumper": ""
     },
     {
       "x": false,
       "id": 14408,
-      "category": "Indische Seifenopern",
+      "category": "Seifenopern",
       "bumper": ""
     },
     {
@@ -40,7 +40,7 @@
     {
       "x": false,
       "id": 14440,
-      "category": "Schwedische Namensgebung",
+      "category": "Namensgebung",
       "bumper": ""
     },
     {
@@ -52,7 +52,7 @@
     {
       "x": false,
       "id": 14851,
-      "category": "Neues vom Patentamt",
+      "category": "Patentamt",
       "bumper": ""
     },
     {
@@ -64,19 +64,19 @@
     {
       "x": false,
       "id": 15300,
-      "category": "Neuartige BH-Anwendungen",
+      "category": "BH-Anwendungen",
       "bumper": ""
     },
     {
       "x": false,
       "id": 15369,
-      "category": "Mieten in Japan",
+      "category": "Miete",
       "bumper": ""
     },
     {
       "x": false,
       "id": 15391,
-      "category": "Unaussprechliches Grauen",
+      "category": "Grauen",
       "bumper": ""
     },
     {
@@ -88,13 +88,13 @@
     {
       "x": false,
       "id": 15625,
-      "category": "Offizielle Statements",
+      "category": "Statements",
       "bumper": ""
     },
     {
       "x": false,
       "id": 15629,
-      "category": "Öffentliche Gesundheit",
+      "category": "Gesundheit!",
       "bumper": ""
     },
     {
@@ -106,7 +106,7 @@
     {
       "x": false,
       "id": 15795,
-      "category": "Kleine Helferlein",
+      "category": "Helferlein",
       "bumper": ""
     },
     {
@@ -130,13 +130,13 @@
     {
       "x": false,
       "id": 17824,
-      "category": "Immer diese Amis",
+      "category": "Amis",
       "bumper": ""
     },
     {
       "x": false,
       "id": 17832,
-      "category": "Auf Verhandlungsbasis",
+      "category": "Verhandlungsbasis",
       "bumper": ""
     },
     {
@@ -148,7 +148,7 @@
     {
       "x": false,
       "id": 18314,
-      "category": "G'schichten aus dem Tiergarten",
+      "category": "G'schichten",
       "bumper": ""
     },
     {
@@ -166,13 +166,13 @@
     {
       "x": false,
       "id": 18991,
-      "category": "Unglückliche Einbrüche",
+      "category": "Einbrüche",
       "bumper": ""
     },
     {
       "x": false,
       "id": 19195,
-      "category": "Reiner Wein",
+      "category": "Alkoholfrei",
       "bumper": ""
     },
     {
@@ -202,7 +202,7 @@
     {
       "x": false,
       "id": 19413,
-      "category": "Freund und Helfer",
+      "category": "Genehmigungen",
       "bumper": ""
     },
     {
@@ -226,7 +226,7 @@
     {
       "x": false,
       "id": 19454,
-      "category": "Schwer verwundet",
+      "category": "Verwundet",
       "bumper": ""
     },
     {
@@ -244,7 +244,7 @@
     {
       "x": false,
       "id": 19550,
-      "category": "Kreuzzug in Prag",
+      "category": "Kreuzzug",
       "bumper": ""
     },
     {
@@ -256,7 +256,7 @@
     {
       "x": false,
       "id": 19616,
-      "category": "Geheimes Gold",
+      "category": "Goldig",
       "bumper": ""
     },
     {
@@ -274,13 +274,13 @@
     {
       "x": false,
       "id": 20437,
-      "category": "Herr der Ringe",
+      "category": "Ringe",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20489,
-      "category": "Frustrierte Käfer",
+      "category": "Käfer",
       "bumper": ""
     },
     {
@@ -292,7 +292,7 @@
     {
       "x": false,
       "id": 21419,
-      "category": "Asche zu Asche",
+      "category": "Asche",
       "bumper": ""
     },
     {
@@ -322,13 +322,13 @@
     {
       "x": false,
       "id": 21606,
-      "category": "Facebook-Wettbewerbe",
+      "category": "Facebook",
       "bumper": ""
     },
     {
       "x": false,
       "id": 23599,
-      "category": "Olympische Spiele",
+      "category": "Olympisch",
       "bumper": ""
     },
     {
@@ -340,13 +340,13 @@
     {
       "x": false,
       "id": 23646,
-      "category": "Diktator-Schönheitsroutine",
+      "category": "Schönheitsroutine",
       "bumper": ""
     },
     {
       "x": false,
       "id": 24807,
-      "category": "Wissenschaftliche Erkenntnisse",
+      "category": "Erkenntnisse",
       "bumper": ""
     },
     {
@@ -376,7 +376,7 @@
     {
       "x": false,
       "id": 43242,
-      "category": "Nicht schießen!",
+      "category": "Historisch!",
       "bumper": ""
     },
     {
@@ -400,7 +400,7 @@
     {
       "x": false,
       "id": 43265,
-      "category": "„Wichtige“ Forschung",
+      "category": "Forschung",
       "bumper": ""
     },
     {
@@ -412,13 +412,13 @@
     {
       "x": false,
       "id": 43331,
-      "category": "Zum Angriff!",
+      "category": "Angriff!",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43337,
-      "category": "Sicherheit geht vor",
+      "category": "Sicherheit",
       "bumper": ""
     },
     {
@@ -436,7 +436,7 @@
     {
       "x": false,
       "id": 43352,
-      "category": "Unter Dach und Fach",
+      "category": "Dächer",
       "bumper": ""
     },
     {
@@ -454,19 +454,19 @@
     {
       "x": false,
       "id": 43367,
-      "category": "Der Mais ist heiß",
+      "category": "Mais",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43370,
-      "category": "Wiener Elefanten",
+      "category": "Elefanten",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43373,
-      "category": "Harte Nüsse",
+      "category": "Nüsschen",
       "bumper": ""
     },
     {
@@ -490,19 +490,19 @@
     {
       "x": false,
       "id": 43428,
-      "category": "ABBA-Garderobe",
+      "category": "Garderobe",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43455,
-      "category": "Harte Arbeit",
+      "category": "Knochenjobs",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43470,
-      "category": "Alte Brettspiele",
+      "category": "Brettspiele",
       "bumper": ""
     },
     {
@@ -514,7 +514,7 @@
     {
       "x": false,
       "id": 43520,
-      "category": "Stephen Hawking",
+      "category": "Hawking",
       "bumper": ""
     },
     {
@@ -562,7 +562,7 @@
     {
       "x": false,
       "id": 43549,
-      "category": "Kanadische Gerüche",
+      "category": "Gerüche-Küche",
       "bumper": ""
     },
     {
@@ -580,31 +580,31 @@
     {
       "x": false,
       "id": 43567,
-      "category": "Isländische Kontroversen",
+      "category": "Kontroversen",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43570,
-      "category": "Royaler Tratsch",
+      "category": "Tratsch",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43691,
-      "category": "Bierisch gut",
+      "category": "Bier",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43719,
-      "category": "Klein aber fein",
+      "category": "Ursprünge",
       "bumper": ""
     },
     {
       "x": false,
       "id": 43841,
-      "category": "Besondere Vorlieben",
+      "category": "Vorlieben",
       "bumper": ""
     },
     {
@@ -616,7 +616,7 @@
     {
       "x": false,
       "id": 43924,
-      "category": "Schwedische Verbrechen",
+      "category": "Verbrechen",
       "bumper": ""
     },
     {
@@ -628,7 +628,7 @@
     {
       "x": false,
       "id": 43932,
-      "category": "Kleine Inselstaaten",
+      "category": "Inselstaaten",
       "bumper": ""
     },
     {
@@ -646,7 +646,7 @@
     {
       "x": false,
       "id": 43961,
-      "category": "Blutrünstige Prinzessinnen",
+      "category": "Blutrünstig",
       "bumper": ""
     },
     {
@@ -664,31 +664,31 @@
     {
       "x": false,
       "id": 43970,
-      "category": "Spanische Schmuggler",
+      "category": "Kokain",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44008,
-      "category": "Auf der Flucht",
+      "category": "Flucht",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44058,
-      "category": "Londoner Ecken",
+      "category": "Leuchten",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44100,
-      "category": "Münchener Anfälle",
+      "category": "Anfälle",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44121,
-      "category": "Polnische Winter",
+      "category": "Winter",
       "bumper": ""
     },
     {
@@ -706,7 +706,7 @@
     {
       "x": false,
       "id": 44264,
-      "category": "Mitteleuropa-Rekorde",
+      "category": "Mitteleuropa",
       "bumper": ""
     },
     {
@@ -730,7 +730,7 @@
     {
       "x": false,
       "id": 44286,
-      "category": "Königliche Statuen",
+      "category": "Statuen",
       "bumper": ""
     },
     {
@@ -760,7 +760,7 @@
     {
       "x": false,
       "id": 44323,
-      "category": "Warenautomaten",
+      "category": "Warenautomat",
       "bumper": ""
     },
     {
@@ -790,13 +790,13 @@
     {
       "x": false,
       "id": 44399,
-      "category": "Tiefe Wunden",
+      "category": "Wunden",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44488,
-      "category": "Satte Ratte",
+      "category": "Gesättigt",
       "bumper": ""
     },
     {
@@ -808,13 +808,13 @@
     {
       "x": false,
       "id": 44540,
-      "category": "Antiker Buddhismus",
+      "category": "Buddhismus",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44555,
-      "category": "Antikes Griechenland",
+      "category": "Antikes",
       "bumper": ""
     },
     {
@@ -838,7 +838,7 @@
     {
       "x": false,
       "id": 44571,
-      "category": "Finnisches Militär",
+      "category": "Militär",
       "bumper": ""
     },
     {
@@ -850,19 +850,19 @@
     {
       "x": false,
       "id": 44603,
-      "category": "Heilender Wein",
+      "category": "Wein",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44607,
-      "category": "Teurer Trank",
+      "category": "Umtrunke",
       "bumper": ""
     },
     {
       "x": false,
       "id": 44612,
-      "category": "Verbote",
+      "category": "Diktatoren",
       "bumper": ""
     },
     {
@@ -892,7 +892,7 @@
     {
       "x": false,
       "id": 44756,
-      "category": "Guter Zweck",
+      "category": "Wohltaten",
       "bumper": ""
     },
     {
@@ -934,19 +934,19 @@
     {
       "x": false,
       "id": 44906,
-      "category": "Gute Küche",
+      "category": "Gastronomie",
       "bumper": ""
     },
     {
       "x": false,
       "id": 45005,
-      "category": "Dänische Singles",
+      "category": "Junggesellen",
       "bumper": ""
     },
     {
       "x": false,
       "id": 45006,
-      "category": "Japanische Feste",
+      "category": "Feste",
       "bumper": ""
     },
     {
@@ -970,19 +970,19 @@
     {
       "x": false,
       "id": 45064,
-      "category": "Kühne Kleinstädte",
+      "category": "Kleinstädte",
       "bumper": ""
     },
     {
       "x": false,
       "id": 45106,
-      "category": "Super Duper",
+      "category": "Mutationen",
       "bumper": ""
     },
     {
       "x": false,
       "id": 45108,
-      "category": "Voll in Form!",
+      "category": "Fit",
       "bumper": ""
     },
     {
@@ -994,7 +994,7 @@
     {
       "x": false,
       "id": 45147,
-      "category": "Königliche Titel",
+      "category": "Adelstitel",
       "bumper": ""
     },
     {
@@ -1024,7 +1024,7 @@
     {
       "x": false,
       "id": 45272,
-      "category": "Gesetze aus Übersee",
+      "category": "Gesetze",
       "bumper": ""
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "x": false,
       "id": 45677,
-      "category": "Hochzeitstraditionen",
+      "category": "Hochzeiten",
       "bumper": ""
     },
     {
@@ -1066,7 +1066,7 @@
     {
       "x": false,
       "id": 46120,
-      "category": "Üble Metaphern",
+      "category": "Metaphern",
       "bumper": ""
     },
     {
@@ -1078,7 +1078,7 @@
     {
       "x": false,
       "id": 46183,
-      "category": "Lustige Hobbys",
+      "category": "Doppelleben",
       "bumper": ""
     },
     {
@@ -1090,19 +1090,19 @@
     {
       "x": false,
       "id": 46373,
-      "category": "Amis",
+      "category": "Amerikaner",
       "bumper": ""
     },
     {
       "x": false,
       "id": 46444,
-      "category": "Große Sammlungen",
+      "category": "Sammlungen",
       "bumper": ""
     },
     {
       "x": false,
       "id": 46451,
-      "category": "Große Pläne",
+      "category": "Pläne",
       "bumper": ""
     },
     {
@@ -1120,13 +1120,13 @@
     {
       "x": false,
       "id": 46549,
-      "category": "Selbstgemachte Statuen",
+      "category": "Selbstgemachtes",
       "bumper": ""
     },
     {
       "x": false,
       "id": 46689,
-      "category": "Goldene Möwe",
+      "category": "Bögen",
       "bumper": ""
     },
     {
@@ -1156,13 +1156,13 @@
     {
       "x": false,
       "id": 47553,
-      "category": "Grüner werden",
+      "category": "Grün",
       "bumper": ""
     },
     {
       "x": false,
       "id": 47710,
-      "category": "Spaß mit Chirurgie",
+      "category": "Chirurgie",
       "bumper": ""
     },
     {
@@ -1198,13 +1198,13 @@
     {
       "x": false,
       "id": 48312,
-      "category": "Berühmt werden",
+      "category": "Berühmt",
       "bumper": ""
     },
     {
       "x": false,
       "id": 48467,
-      "category": "Schottische Slogans",
+      "category": "Berüchtigt",
       "bumper": ""
     },
     {
@@ -1216,7 +1216,7 @@
     {
       "x": false,
       "id": 17850,
-      "category": "Japanische Kochbücher",
+      "category": "Kochbücher",
       "bumper": ""
     },
     {
@@ -1240,7 +1240,7 @@
     {
       "x": false,
       "id": 18249,
-      "category": "Hochzeit",
+      "category": "Präsente",
       "bumper": ""
     },
     {
@@ -1300,7 +1300,7 @@
     {
       "x": false,
       "id": 18986,
-      "category": "Loch Ness",
+      "category": "U-Boot",
       "bumper": ""
     },
     {
@@ -1372,7 +1372,7 @@
     {
       "x": false,
       "id": 20391,
-      "category": "Natürliche Schönheit",
+      "category": "Schönheit",
       "bumper": ""
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "x": false,
       "id": 20485,
-      "category": "Feliz Navidad",
+      "category": "Krippe",
       "bumper": ""
     },
     {
@@ -1432,7 +1432,7 @@
     {
       "x": false,
       "id": 21367,
-      "category": "Japan",
+      "category": "Inseln",
       "bumper": ""
     },
     {
@@ -1528,7 +1528,7 @@
     {
       "x": false,
       "id": 14369,
-      "category": "Alexander der Große",
+      "category": "Befehle",
       "bumper": ""
     },
     {
@@ -1552,7 +1552,7 @@
     {
       "x": false,
       "id": 14548,
-      "category": "Gut gebettet",
+      "category": "Gebettet",
       "bumper": ""
     },
     {
@@ -1564,7 +1564,7 @@
     {
       "x": false,
       "id": 14656,
-      "category": "Verliebt, Verlobt, Verschuldet?",
+      "category": "Hochzeit",
       "bumper": ""
     },
     {
@@ -1582,7 +1582,7 @@
     {
       "x": false,
       "id": 14981,
-      "category": "Buenos Aires",
+      "category": "Papst",
       "bumper": ""
     },
     {
@@ -1606,7 +1606,7 @@
     {
       "x": false,
       "id": 15367,
-      "category": "Wie der Vater..?",
+      "category": "Nachkommen",
       "bumper": ""
     },
     {
@@ -1630,7 +1630,7 @@
     {
       "x": false,
       "id": 15783,
-      "category": "Spieglein, Spieglein...",
+      "category": "Spieglein",
       "bumper": ""
     },
     {
@@ -1666,7 +1666,7 @@
     {
       "x": false,
       "id": 15915,
-      "category": "Isländische Natur",
+      "category": "Island",
       "bumper": ""
     },
     {
@@ -1708,7 +1708,7 @@
     {
       "x": false,
       "id": 16071,
-      "category": "Milchmädchen-Rechnung",
+      "category": "Rechnung",
       "bumper": ""
     },
     {
@@ -1744,7 +1744,7 @@
     {
       "x": false,
       "id": 50001,
-      "category": "Zuckrige Freuden",
+      "category": "Zuckriges",
       "bumper": ""
     },
     {
@@ -1774,7 +1774,7 @@
     {
       "x": false,
       "id": 50008,
-      "category": "Vor Gericht",
+      "category": "Richterlich",
       "bumper": ""
     },
     {
@@ -1786,19 +1786,19 @@
     {
       "x": false,
       "id": 50026,
-      "category": "Geschmeidige Sache",
+      "category": "Geschmeidig",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50028,
-      "category": "Handwerkliche Begabung",
+      "category": "Handwerk",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50029,
-      "category": "Verbotene Handlungen",
+      "category": "Verbote",
       "bumper": ""
     },
     {
@@ -1822,7 +1822,7 @@
     {
       "x": false,
       "id": 50035,
-      "category": "Internet-Katzen",
+      "category": "Katzen",
       "bumper": ""
     },
     {
@@ -1834,7 +1834,7 @@
     {
       "x": false,
       "id": 50038,
-      "category": "Schaffe schaffe, Häusle baue",
+      "category": "Baustoffe",
       "bumper": ""
     },
     {
@@ -1852,13 +1852,13 @@
     {
       "x": false,
       "id": 50043,
-      "category": "Zur See",
+      "category": "Bodensee",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50046,
-      "category": "Deutscher Erfinderreichtum",
+      "category": "Erfinderreichtum",
       "bumper": ""
     },
     {
@@ -1876,25 +1876,25 @@
     {
       "x": false,
       "id": 50050,
-      "category": "Um die Wette",
+      "category": "Wetten",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50051,
-      "category": "Japanische Studien",
+      "category": "Japan",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50052,
-      "category": "Bundesautobahn 20",
+      "category": "A 20",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50053,
-      "category": "In der Glotze",
+      "category": "Glotze",
       "bumper": ""
     },
     {
@@ -1906,7 +1906,7 @@
     {
       "x": false,
       "id": 50055,
-      "category": "Italienischer Adel",
+      "category": "Adel",
       "bumper": ""
     },
     {
@@ -1918,7 +1918,7 @@
     {
       "x": false,
       "id": 50057,
-      "category": "Rasante Rennen",
+      "category": "Rennfahrer",
       "bumper": ""
     },
     {
@@ -1936,13 +1936,13 @@
     {
       "x": false,
       "id": 50060,
-      "category": "Doktor-Küsse",
+      "category": "Küsse",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50061,
-      "category": "10 Gebote",
+      "category": "Gebote",
       "bumper": ""
     },
     {
@@ -1966,13 +1966,13 @@
     {
       "x": false,
       "id": 50065,
-      "category": "Papagei-Problematik",
+      "category": "Papageien",
       "bumper": ""
     },
     {
       "x": false,
       "id": 50066,
-      "category": "Erste Hilfe",
+      "category": "Ersthelfer",
       "bumper": ""
     },
     {
@@ -1990,7 +1990,7 @@
     {
       "x": false,
       "id": 50069,
-      "category": "Wald und Wiesen",
+      "category": "Wiesen",
       "bumper": ""
     },
     {
@@ -2002,7 +2002,7 @@
     {
       "x": false,
       "id": 50071,
-      "category": "Guten Morgen!",
+      "category": "GuMo!",
       "bumper": ""
     },
     {
